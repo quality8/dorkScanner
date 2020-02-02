@@ -21,6 +21,7 @@ Programı kullanabilmek için aşağıdaki kütüphaneleri yüklemiş olmanız g
 
 •time
 
+
 Nasıl kullanılır ?
 
 1- Gerekli kütüphaneleri indirin: Komut satırında "pip install kütüphane_adı" şeklinde yapabilirsiniz. (ör: pip install beautifulsoup4)
@@ -31,5 +32,6 @@ Nasıl kullanılır ?
 vulnerabilitiyLinks.txt dosyasından ulaşabilirsiniz. 
 
 Çok yakında proxy değiştireblir hali ile güncellenecektir...
+
 
 --Quality38 RB
