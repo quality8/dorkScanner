@@ -3,15 +3,15 @@ Verdiğiniz dorklara sahip zafiyetli siteler arar.
 -------------------------------------------------
 Programı kullanabilmek için aşağıdaki kütüphaneleri yüklemiş olmanız gerekmekte:
 
-•beautifulsoup4 
-•googlesearch
-•requests
-•requests_random_user_agent
-•random
-•lxml.html
-•itertools
-•traceback
-•time
+-beautifulsoup4 
+-googlesearch
+-requests
+-requests_random_user_agent
+-random
+-lxml.html
+-itertools
+-traceback
+-time
 
 Nasıl kullanılır ?
 
